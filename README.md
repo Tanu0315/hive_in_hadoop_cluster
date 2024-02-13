@@ -1,0 +1,1 @@
+# hive_in_hadoop_cluster
